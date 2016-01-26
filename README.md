@@ -1,2 +1,2 @@
-# lua-mkdirp
-A mkdir -p for Lua.
+# mkdirp
+A `mkdir -p` module for Lua.
