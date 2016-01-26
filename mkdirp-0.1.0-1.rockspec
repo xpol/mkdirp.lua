@@ -6,8 +6,8 @@ source = {
   tag="v"..v
 }
 description={
-   summary = 'A `mkdir -p` module for Lua.',
-   detailed = 'A `mkdir -p` module for Lua.',
+   summary = "A `mkdir -p` module for Lua.",
+   detailed = "A `mkdir -p` module for Lua.",
    homepage = "http://github.com/xpol/mkdirp.lua",
    license = "MIT"
 }
@@ -17,8 +17,8 @@ dependencies = {
 }
 
 build = {
-	type='builtin',
+	type="builtin",
 	modules={
-		mkdirp={'mkdirp.lua'}
+		mkdirp="mkdirp.lua"
 	}
 }
